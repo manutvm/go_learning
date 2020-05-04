@@ -1,0 +1,10 @@
+2020/04/05 13:40:04 Error: open /ope/test.cfg: no such file or directory
+Error in readine configuration file
+main.readConfig
+	/home/manu/Workspace/go/errors_readconfig.go:17
+main.main
+	/home/manu/Workspace/go/errors_readconfig.go:36
+runtime.main
+	/usr/local/go/src/runtime/proc.go:203
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1373
